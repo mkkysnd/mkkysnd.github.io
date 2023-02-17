@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="43.075283mm"
+   height="44.74992mm"
+   viewBox="0 0 43.075283 44.74992"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5381">
+      <stop
+         style="stop-color:#262626;stop-opacity:1;"
+         offset="0"
+         id="stop5379" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5277">
+      <stop
+         style="stop-color:#262626;stop-opacity:1;"
+         offset="0"
+         id="stop5275" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5271">
+      <stop
+         style="stop-color:#262626;stop-opacity:1;"
+         offset="0"
+         id="stop5269" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5057">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5055" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2970">
+      <stop
+         style="stop-color:#262626;stop-opacity:1;"
+         offset="0"
+         id="stop2968" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-16.211923,-71.013646)">
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aeb5dc;stroke-width:2.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path788"
+       d="M 44.426777,101.2443 33.410422,98.796996 22.544504,101.8435 21.467788,90.610066 l -6.255152,-9.392681 10.350909,-4.495339 7.000022,-8.851501 7.473928,8.455162 10.581404,3.922152 -5.731767,9.720918 z"
+       transform="translate(2.2317254,4.3755323)" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e1eec1;stroke-width:2.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path788-5"
+       d="M 44.426777,101.2443 33.410422,98.796996 22.544504,101.8435 21.467788,90.610066 l -6.255152,-9.392681 10.350909,-4.495339 7.000022,-8.851501 7.473928,8.455162 10.581404,3.922152 -5.731767,9.720918 z"
+       transform="matrix(0.8180893,0.16646644,-0.16646644,0.8180893,30.206099,24.512203)" />
+  </g>
+</svg>
