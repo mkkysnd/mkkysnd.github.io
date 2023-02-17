@@ -99,12 +99,25 @@ header a, footer a {
     margin-right: .3em;
 }
 .titleA, .titleB, .titleC, .titleD {
-    padding-left: .3em;
+    padding-left: 3.3em;
     margin-top: 1.3em;
     margin-bottom: .3em;
     font-family: "Hui Font29", "Sawarabi Gothic";
     color: #301515;
     font-size: 1.4em;
+    text-indent: -3em;
+}
+@media (max-width: 600px) {
+    .titleA, .titleB, .titleC {
+        font-size: 1.3em;
+    }
+    .titleA::before,
+    .titleB::before,
+    .titleC::before,
+    .titleD::before {
+        width: 1.1em;
+        height:1.1em;
+    }
 }
 
 
@@ -158,20 +171,21 @@ ul.enu1 li:before{
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
     ul.enu1 {
         width: 80%;
     }
-}
+} */
 
 
 
 .uline {
     position: relative;
-    display: inline-block;
+    /* display: inline-block; */
     padding-right: 1.9em;
     padding-left: .2em;
     background: linear-gradient(transparent 70%, #a7d6ff 70%);
+    /* text-indent: -2em; */
 }
 /* .uline::after {
     content: "";
@@ -182,6 +196,11 @@ ul.enu1 li:before{
     background: -webkit-linear-gradient(to right, #f7c6bd, skyblue);
     background: linear-gradient(to right, #f7c6bd, skyblue);
 } */
+@media (max-width: 600px) {
+    .uline {
+        top: -.5em;
+    }
+}
 
 
 .ulineB {
@@ -269,9 +288,10 @@ ul.enu1 li:before{
 .list39 ul li {
     position: relative;
     line-height: 1.5;
-    padding: 0.5em 0 0.5em 1.6em;
+    padding: 0.5em 0 0.5em 2.6em;
     border-bottom: dashed 1px #ee8992;
     font-size: 1.1em;
+    text-indent: -1em;
 }
 .list39 ul li::before{
     content: '';
