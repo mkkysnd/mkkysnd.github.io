@@ -171,11 +171,11 @@ ul.enu1 li:before{
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
-/* @media (max-width: 600px) {
+@media (max-width: 600px) {
     ul.enu1 {
-        width: 80%;
+        width: 85%;
     }
-} */
+}
 
 
 
@@ -197,7 +197,7 @@ ul.enu1 li:before{
     background: linear-gradient(to right, #f7c6bd, skyblue);
 } */
 @media (max-width: 600px) {
-    .uline {
+    .uline-br {
         top: -.5em;
     }
 }
